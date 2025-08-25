@@ -14,10 +14,9 @@ The project replicates the Netflix homepage UI with sections like navigation bar
 ## 🛠️ Tech Stack  
 - **HTML5** – Semantic markup  
 - **CSS3** – Flexbox, Grid, Animations, Positioning  
-- **GitHub Pages** – Deployment  
 
 ## 📂 Project Structure  
-netflix-clone/
+netflix-page/
 │── index.html
 │── style.css
 │── assets/
