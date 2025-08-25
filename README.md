@@ -21,10 +21,7 @@ netflix-page/
 │── style.css
 │── assets/
 │ ├── images/
-│ └── videos/
-
-## 📸 Screenshots  
-![Netflix Clone Screenshot](https://via.placeholder.com/800x400.png?text=Netflix+Clone+Preview)  
+│ └── videos/ 
 
 ## 🧑‍💻 Setup Instructions  
 1. Clone the repository  
@@ -39,4 +36,4 @@ Run index.html in your browser
 This project is for educational purposes only. All rights to Netflix’s brand and assets belong to Netflix Inc.
 
 ## Author
-Adarsh Agrahari
+Adarsh Agrahari.
